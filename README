@@ -1,0 +1,1 @@
+This is small scene project based on the video: https://www.youtube.com/watch?v=_a6kcSP8R1Y
